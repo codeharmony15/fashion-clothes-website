@@ -4,8 +4,6 @@ Full Stack e-commerce website where peoples can purchase their choosable clothes
 
 ## Demonstration
 
-#### Sign In :
-
 <img src="https://portfolio-25d76.web.app/assets/img/outdoorvoices.com.png" />
 
 ## Technologies used 🛠️
@@ -218,7 +216,3 @@ And More ! There's always room for improvement!
 
 ## License 📄
 This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-
-## Deployed Version 🚀
-
-Feel free to visit 👉 https://fashion-clothing-lgope.netlify.app/
